@@ -3,18 +3,9 @@
   padding: 20px o;
 }
 
-@media screen and (max-width: 768px) {
-  .header__title {
-    font-size: 900px;
-    line-height: 79px;
-  }
-}
-
-@media screen and (max-width: 1280px) {
-  .header__title {
-    font-family: Inter;
-    font-size: 96px;
-    font-weight: 900;
-    line-height: 100px;
+@media screen and (max-width: 320px) {
+  .header__logo-img {
+    max-width: 188px;
+    height: 52px;
   }
 }
