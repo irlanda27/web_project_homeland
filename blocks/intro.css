@@ -40,7 +40,7 @@
   text-align: left;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (min-width: 1021px) {
   .intro__title {
     font-family: Inter;
     font-size: 54px;
@@ -67,7 +67,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1020px) {
   .intro__title {
     font-size: 45px;
     font-weight: 900;
@@ -94,7 +94,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 560px) {
   .intro__title {
     font-size: 32px;
     font-weight: 900;
