@@ -1,12 +1,12 @@
 .intro {
-  max-width: 984px;
-  width: 100%;
+  padding-left: 380px;
   margin: 0 auto;
+  margin-left: 100px;
+  margin-right: 300px;
 }
 
 .intro__title {
-  max-width: 830px;
-  width: 100%;
+  width: 800px;
   font-weight: 900;
   font-size: 54px;
   margin-bottom: 40px;
@@ -14,9 +14,8 @@
 }
 
 .intro__text {
+  width: 700px;
   margin: 0;
-  max-width: 830px;
-  width: 100%;
   font-family: Inter;
   font-size: 16px;
   font-weight: 400;
@@ -25,14 +24,13 @@
 }
 
 .intro__author {
-  margin: 0;
-  max-width: 830px;
-  width: 100%;
+  width: 700px;
   text-align: right;
   margin-bottom: 39px;
 }
 
 .intro__subtitle {
+  width: 720px;
   font-family: Inter;
   font-size: 24px;
   font-weight: 400;
