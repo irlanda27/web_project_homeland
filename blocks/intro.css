@@ -22,13 +22,11 @@
 }
 
 .intro__author {
-  width: 700px;
   text-align: right;
   margin-bottom: 39px;
 }
 
 .intro__subtitle {
-  width: 720px;
   font-family: Inter;
   font-size: 24px;
   font-weight: 400;
