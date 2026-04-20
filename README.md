@@ -1,30 +1,29 @@
-# De Patria a Patria
+# 🌍 From Homeland to Homeland
 
-Bienvenido al proyecto **De Patria a Patria**. Este proyecto está diseñado para capturar un viaje único a través de culturas y territorios, desde Kentucky a Burundi, pasando por Gales y Ucrania.
+Welcome to the **From Homeland to Homeland** project. This project captures a unique journey across cultures and territories, from Kentucky to Burundi, passing through Wales and Ukraine.
 
-## Enlace al proyecto
+## 🔗 Live Project
 
-Puedes ver el proyecto en vivo [aquí](https://irlanda27.github.io/web_project_homeland/).
+You can view the project live [here](https://irlanda27.github.io/web_project_homeland/).
 
-## Descripción
+## 📖 Description
 
-**De Patria a Patria** es una galería de arte digital que explora un viaje épico de identidad, conexión y diversidad cultural. En este sitio, los visitantes pueden experimentar una colección visual y narrativa que celebra la riqueza de cada región visitada.
+**From Homeland to Homeland** is a digital art gallery that explores an epic journey of identity, connection, and cultural diversity. Visitors can experience a visual and narrative collection that celebrates the richness of each region featured.
 
-## Estructura del Proyecto
+## 🧩 Project Structure
 
-- **Página principal**: Introducción al tema y presentación de la galería.
-- **Galería**: Sección donde se muestran las imágenes de las diferentes regiones.
-- **Detalles**: Explicación de cada obra y su contexto cultural.
+- **Home Page:** Introduction to the theme and presentation of the gallery.
+- **Gallery:** Section showcasing images from different regions.
+- **Details:** Context and descriptions of each piece and its cultural background.
 
-## Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- Diseño responsivo para adaptarse a diferentes resoluciones de pantalla
+- Responsive design for multiple screen sizes
 
-## Instalación y Uso
+## ⚙️ Installation and Usage
 
-1. Clona el repositorio en tu máquina local:
+1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/irlanda27/web_project_homeland.git
-   ```
